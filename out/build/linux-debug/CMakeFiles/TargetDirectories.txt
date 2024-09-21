@@ -1,0 +1,5 @@
+/home/jameszing/.vs/Ray-tracing/out/build/linux-debug/CMakeFiles/rebuild_cache.dir
+/home/jameszing/.vs/Ray-tracing/out/build/linux-debug/CMakeFiles/edit_cache.dir
+/home/jameszing/.vs/Ray-tracing/out/build/linux-debug/Ray-tracing/CMakeFiles/rebuild_cache.dir
+/home/jameszing/.vs/Ray-tracing/out/build/linux-debug/Ray-tracing/CMakeFiles/edit_cache.dir
+/home/jameszing/.vs/Ray-tracing/out/build/linux-debug/Ray-tracing/CMakeFiles/Ray-tracing.dir
